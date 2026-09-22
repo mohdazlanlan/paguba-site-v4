@@ -1,0 +1,5 @@
+<footer class="footer"><div class="container"><div class="footergrid">
+<div><div class="footer-brand"><img src="images/branding/paguba-logo-clean.png" alt="PAGUBA logo"><div><h3>PAGUBA</h3></div></div><p>Daripada Sumber Tempatan kepada Nilai Lestari.</p><p>Memperkasa komuniti melalui inovasi, keusahawanan dan ekonomi kitaran.</p></div>
+<div><h3>Pautan Pantas</h3><p><a href="index.html">Utama</a></p><p><a href="about.html">Mengenai Kami</a></p><p><a href="products.html">Produk</a></p><p><a href="projects.html">Projek &amp; Aktiviti</a></p><p><a href="community.html">Komuniti</a></p></div>
+<div><h3>Hubungi Kami</h3><p>No. 11, Jalan Semerbak 15,<br>Taman Bukit Dahlia,<br>81700 Pasir Gudang, Johor Bahru, Johor.</p><p><a href="https://wa.me/60147760148" target="_blank" rel="noopener">014-7760148</a><br>paguba.cs@gmail.com</p></div>
+</div><div class="bottom">© 2026 Koperasi Kampung Pasir Gudang Berhad. Semua Hak Cipta Terpelihara.</div></div></footer>

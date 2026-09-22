@@ -1,0 +1,5 @@
+<header class="header"><div class="container nav">
+<a class="brand" href="index.html"><img src="images/branding/paguba-logo-clean.png" alt="PAGUBA logo"><span class="brand-text">PAGUBA<span>Koperasi Kampung Pasir Gudang Berhad</span></span></a>
+<button class="menu" aria-label="Buka menu" aria-expanded="false">☰</button>
+<nav class="navlinks">NAV</nav>
+</div></header>
